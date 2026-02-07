@@ -1,0 +1,8 @@
+{
+  "name": "JS Codespace",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "18"
+    }
+  }
+}
